@@ -1,0 +1,30 @@
+.botaoNext {
+  color:white;
+  background-color: blue;
+  font-family: monospace;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  border-radius: 10%;
+  font-size: 1rem;
+}
+.botaoPrevious {
+  color:white;
+  background-color: green;
+  font-family: monospace;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  border-radius: 10%;
+  font-size: 1rem;
+}
+
+.perguntas{
+  font-family: monospace;
+  display: flex;
+  margin: 10px;
+}
+
+.titulo {
+  font-weight: bold;
+}

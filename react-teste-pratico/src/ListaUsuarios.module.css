@@ -1,0 +1,19 @@
+table,
+th {
+    border: 1px solid grey;
+    letter-spacing: 1px;
+    border-collapse: collapse;
+    padding: 15px;
+    background-color: #ccc;
+    font-family: sans-serif;
+    text-align: left;
+  }
+
+  tr {
+    background-color: white;
+  }
+
+  button {
+    display: flex;
+    align-items: center;
+  }

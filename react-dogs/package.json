@@ -1,5 +1,5 @@
 {
-  "name": "react-project-teste",
+  "name": "react-dogs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,9 +11,11 @@
   },
   "dependencies": {
     "axios": "^1.7.7",
+    "prop-types": "^15.8.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-hook-form": "^7.53.0"
+    "react-router-dom": "^6.26.2",
+    "vite-plugin-svgr": "^4.2.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",

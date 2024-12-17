@@ -1,0 +1,15 @@
+.estiloBtnDetalhe {
+  color: white;
+  background-color: red;
+  font-size: 15px
+}
+
+.estiloOpenDetalhe {
+  color: white;
+  background-color: blue
+}
+
+.estiloBtnExcluir {
+  color: white;
+  background-color: red
+}
