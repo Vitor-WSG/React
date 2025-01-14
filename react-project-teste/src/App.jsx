@@ -13,13 +13,14 @@ import GetPhoto from "./TesteAPI/GetPhoto";
 function App() {
   return (
     <div>
-      <NewUser />
+      <FormularioInput />
+      {/* <NewUser />
       <br />
       <TokenUser />
       <br />
       <NewPhoto />
       <br />
-      <GetPhoto />
+      <GetPhoto /> */}
     </div>
   );
 }
